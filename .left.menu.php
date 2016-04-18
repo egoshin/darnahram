@@ -1,0 +1,53 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"Наш храм", 
+		"/our-church/about/",
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"События", 
+		"/events/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Воскресные листки", 
+		"/sunday-sheets/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Азбука веры", 
+		"/catechism/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Фотогалерея", 
+		"/photogallery/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Видеоматериалы", 
+		"/videos/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Контакты", 
+		"/contacts/", 
+		Array(), 
+		Array(), 
+		"" 
+	)
+);
+?>
